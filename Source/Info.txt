@@ -1,0 +1,14 @@
+ABOUT THIS SOFTWARE
+
+VPNOnDemandAgent by SpanishDexter/JDSoft
+For auto-connecting and disconnecting your VPN client based on outbound WAN IP addresses on a blacklist on your web server.
+
+Version 1.00
+Updated 11/19/2023
+
+my website: https://www.jdsoft.rocks/
+my github repos: https://github.com/spanishdexter
+
+LICENSE: Modify, brand and use however you see fit as long as it's not illegal or immoral.
+
+DISCLAIMER: Use this software at your own risk. I take no responsibility if you deploy this and damage occurs, be it a business environment or home environment. You as the IT professional are responsible for testing and making sure this script is compatible with your environment and configuration.
